@@ -2,6 +2,21 @@
 
 MindCare is a simple and user-friendly web project designed to spread mental health awareness and provide basic tools to help users relax and manage stress.
 
+
+Live demo🔗 : https://mindcareforu.netlify.app  
+
+
+⚠ Note: Audio and video files are not included in this repository due to GitHub file size limits.
+
+
+⚠ Note: All source files in this repository are minified for performance and deployment purposes.
+This makes the code harder to read.
+
+If you want the original (unminified) source code for learning or development,
+please contact the Golden Kumar.
+
+
+
 This project is created as a student project for learning and awareness purposes.
 
 ---
