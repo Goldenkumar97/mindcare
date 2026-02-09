@@ -33,6 +33,25 @@ This project is created as a student project for learning and awareness purposes
 
 ---
 
+🔑 Key Features
+
+- Stress and mood self-assessment to help users understand their mental state
+
+- Relaxing music with interactive UI cards for mindfulness and focus
+
+- Guided breathing exercises for instant calm and anxiety reduction
+
+- Emergency support section with important helpline numbers
+
+- Contact and feedback form for user communication and support
+
+- Curated educational resources for mental health awareness
+
+- Daily wellness tips and motivational content to encourage positivity
+
+
+---
+
 ## 🛠 Technologies Used
 
 - HTML5  
